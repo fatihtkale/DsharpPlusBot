@@ -1,0 +1,11 @@
+C:\Users\Fatih\source\repos\DiscordBottest\DiscordBottest\bin\Debug\netcoreapp2.0\DiscordBottest.deps.json
+C:\Users\Fatih\source\repos\DiscordBottest\DiscordBottest\bin\Debug\netcoreapp2.0\DiscordBottest.runtimeconfig.json
+C:\Users\Fatih\source\repos\DiscordBottest\DiscordBottest\bin\Debug\netcoreapp2.0\DiscordBottest.runtimeconfig.dev.json
+C:\Users\Fatih\source\repos\DiscordBottest\DiscordBottest\bin\Debug\netcoreapp2.0\DiscordBottest.dll
+C:\Users\Fatih\source\repos\DiscordBottest\DiscordBottest\bin\Debug\netcoreapp2.0\DiscordBottest.pdb
+C:\Users\Fatih\source\repos\DiscordBottest\DiscordBottest\obj\Debug\netcoreapp2.0\DiscordBottest.csprojResolveAssemblyReference.cache
+C:\Users\Fatih\source\repos\DiscordBottest\DiscordBottest\obj\Debug\netcoreapp2.0\DiscordBottest.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\DiscordBottest\DiscordBottest\obj\Debug\netcoreapp2.0\DiscordBottest.AssemblyInfoInputs.cache
+C:\Users\Fatih\source\repos\DiscordBottest\DiscordBottest\obj\Debug\netcoreapp2.0\DiscordBottest.AssemblyInfo.cs
+C:\Users\Fatih\source\repos\DiscordBottest\DiscordBottest\obj\Debug\netcoreapp2.0\DiscordBottest.dll
+C:\Users\Fatih\source\repos\DiscordBottest\DiscordBottest\obj\Debug\netcoreapp2.0\DiscordBottest.pdb
