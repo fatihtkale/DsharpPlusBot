@@ -5798,15 +5798,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fatih\\source\\repos\\DiscordBottest\\DiscordBottest\\DiscordBottest.csproj",
+      "projectUniqueName": "c:\\Users\\Fatih\\Desktop\\Programming\\DsharpPlusBot\\src\\DiscordBottest.csproj",
       "projectName": "DiscordBottest",
-      "projectPath": "C:\\Users\\Fatih\\source\\repos\\DiscordBottest\\DiscordBottest\\DiscordBottest.csproj",
+      "projectPath": "c:\\Users\\Fatih\\Desktop\\Programming\\DsharpPlusBot\\src\\DiscordBottest.csproj",
       "packagesPath": "C:\\Users\\Fatih\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fatih\\source\\repos\\DiscordBottest\\DiscordBottest\\obj\\",
+      "outputPath": "c:\\Users\\Fatih\\Desktop\\Programming\\DsharpPlusBot\\src\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
