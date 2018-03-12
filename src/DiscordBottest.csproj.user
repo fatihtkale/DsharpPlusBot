@@ -4,6 +4,6 @@
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup>
-    <ActiveDebugProfile>DiscordBottest</ActiveDebugProfile>
+    <ActiveDebugProfile>Azins bot</ActiveDebugProfile>
   </PropertyGroup>
 </Project>

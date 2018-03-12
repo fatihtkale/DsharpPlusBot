@@ -5799,11 +5799,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Fatih\\Desktop\\Programming\\DsharpPlusBot\\src\\DiscordBottest.csproj",
+      "projectUniqueName": "C:\\Users\\Fatih\\Desktop\\Programming\\DsharpPlusBot\\src\\DiscordBottest.csproj",
       "projectName": "DiscordBottest",
-      "projectPath": "c:\\Users\\Fatih\\Desktop\\Programming\\DsharpPlusBot\\src\\DiscordBottest.csproj",
+      "projectPath": "C:\\Users\\Fatih\\Desktop\\Programming\\DsharpPlusBot\\src\\DiscordBottest.csproj",
       "packagesPath": "C:\\Users\\Fatih\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Fatih\\Desktop\\Programming\\DsharpPlusBot\\src\\obj\\",
+      "outputPath": "C:\\Users\\Fatih\\Desktop\\Programming\\DsharpPlusBot\\src\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
