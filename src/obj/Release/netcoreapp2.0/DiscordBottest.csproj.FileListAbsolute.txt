@@ -1,0 +1,10 @@
+C:\Users\Fatih\Desktop\Programming\DsharpPlusBot\src\bin\Release\netcoreapp2.0\DiscordBottest.deps.json
+C:\Users\Fatih\Desktop\Programming\DsharpPlusBot\src\bin\Release\netcoreapp2.0\DiscordBottest.runtimeconfig.json
+C:\Users\Fatih\Desktop\Programming\DsharpPlusBot\src\bin\Release\netcoreapp2.0\DiscordBottest.runtimeconfig.dev.json
+C:\Users\Fatih\Desktop\Programming\DsharpPlusBot\src\bin\Release\netcoreapp2.0\DiscordBottest.dll
+C:\Users\Fatih\Desktop\Programming\DsharpPlusBot\src\bin\Release\netcoreapp2.0\DiscordBottest.pdb
+C:\Users\Fatih\Desktop\Programming\DsharpPlusBot\src\obj\Release\netcoreapp2.0\DiscordBottest.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\Programming\DsharpPlusBot\src\obj\Release\netcoreapp2.0\DiscordBottest.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\Programming\DsharpPlusBot\src\obj\Release\netcoreapp2.0\DiscordBottest.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\Programming\DsharpPlusBot\src\obj\Release\netcoreapp2.0\DiscordBottest.dll
+C:\Users\Fatih\Desktop\Programming\DsharpPlusBot\src\obj\Release\netcoreapp2.0\DiscordBottest.pdb
