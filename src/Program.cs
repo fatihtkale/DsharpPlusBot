@@ -33,7 +33,6 @@ namespace DiscordBottest
             });
             commands = discord.UseCommandsNext(new CommandsNextConfiguration
             {
-<<<<<<< HEAD
                 StringPrefix = "!"
             });
             discord.MessageCreated += async e =>
@@ -70,7 +69,6 @@ namespace DiscordBottest
             commands.RegisterCommands<Commands>();
             await discord.ConnectAsync();
             await Task.Delay(-1);
-=======
                 discord = new DiscordClient(new DiscordConfiguration
                 {
                     AutoReconnect = true,
@@ -99,7 +97,6 @@ namespace DiscordBottest
                 commands.RegisterCommands<Commands>();
                 await discord.ConnectAsync();
                 await Task.Delay(-1);
->>>>>>> master
             }
             public class Commands
             {
