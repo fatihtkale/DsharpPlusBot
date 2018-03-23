@@ -28,7 +28,7 @@ namespace DiscordBottest
             discord = new DiscordClient(new DiscordConfiguration
             {
                 AutoReconnect = true,
-                Token = "TOKEN",
+                Token = "NDIzNTgyMTIyMDk2NDU5Nzc2.DZVplQ.ZT075u6-DN9aRe9piKU9OkNdJnM",
                 TokenType = TokenType.Bot
             });
             commands = discord.UseCommandsNext(new CommandsNextConfiguration
