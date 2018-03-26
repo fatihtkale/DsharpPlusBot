@@ -17,9 +17,21 @@ namespace DiscordBottest
             static CommandsNextModule commands;
             static void Main(string[] args)
             {
+<<<<<<< HEAD
                 MainAsync(args).ConfigureAwait(false).GetAwaiter().GetResult();
             }
             static async Task MainAsync(string[] args)
+=======
+                AutoReconnect = true,
+                Token = "NDIzNTgyMTIyMDk2NDU5Nzc2.DZVplQ.ZT075u6-DN9aRe9piKU9OkNdJnM",
+                TokenType = TokenType.Bot
+            });
+            commands = discord.UseCommandsNext(new CommandsNextConfiguration
+            {
+                StringPrefix = "!"
+            });
+            discord.MessageCreated += async e =>
+>>>>>>> master
             {
 <<<<<<< HEAD
                 if (Scam.censoredWords.Any(x => e.Message.Content.ToLower().Contains(x))){
