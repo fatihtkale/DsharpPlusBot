@@ -84,7 +84,7 @@ namespace DiscordBottest
             {
                 [Description("Gives rank")]
                 public async Task getrank(CommandContext ctx, string platform, [Description("!getrank <ign>")] [RemainingText] string ign){
-                    Profile pl = new FortniteClient("fc5c9c9c-0888-4f97-a5ff-1478a29b3c92").GetProfile(platform, ign);
+                    Profile pl = new FortniteClient("FTN-TOKEN").GetProfile(platform, ign);
 
                     var bronze = ctx.Guild.GetRole(435591542716235807);
                     var silver = ctx.Guild.GetRole(435591510080094209);
