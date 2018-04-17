@@ -8,5 +8,8 @@
     <PackageReference Include="DSharpPlus.CommandsNext" Version="3.2.3"/>
     <PackageReference Include="DSharpPlus.VoiceNext" Version="3.2.3"/>
     <PackageReference Include="Magick.NET-Q8-x64" Version="7.4.3"/>
+    <PackageReference Include="Fortnite.Net" Version="1.1.0"/>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2"/>
+    <PackageReference Include="RestSharp" Version="106.3.0-alpha0018"/>
   </ItemGroup>
 </Project>
